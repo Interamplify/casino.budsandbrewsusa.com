@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://canadabestcasinos.com/sitemap.xml
