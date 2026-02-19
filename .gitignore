@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+.claude/
+samples/
+Captura de pantalla*
+ontario-casinos-light.png
+ontario-casinos.png
